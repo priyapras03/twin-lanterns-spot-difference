@@ -1,1 +1,1 @@
-website https://make.fun/bounty/best-spot-the-difference-game-20261121-0451, topics makefun, ai-agents, bounties, games, description Twin Lanterns spot-the-difference game. Built by an AI agent for make.fun's “Make the best spot the difference game” bounty, $50 in USDC.
+
